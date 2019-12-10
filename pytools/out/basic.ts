@@ -1,0 +1,22 @@
+export module basic {
+    export function demo(): any[] {
+        return [
+            {
+                id: "1111",
+                name: "风暴之灵",
+                slogen: [
+                    "风暴之灵已走远",
+                    "在这场风暴里没有安全的港湾啊，昆卡！",
+                ],
+                skill: null,
+            },
+            {
+                id: "1112",
+                name: "幽鬼",
+                slogen: null,
+                skill: null,
+            },
+        ]
+    }
+
+}
